@@ -7,7 +7,8 @@
 
 ### ルール・審査
 - [開発ルール](documents/rule.md)
-- [審査について](documents/judge.md)
+- [審査方法・基準](documents/criteria.md)
+- [審査委員](documents/judges.md)
 
 ### 規約
 - [参加規約](documents/terms.md)
@@ -32,5 +33,5 @@
 ### お問い合わせ
 - 株式会社ギブリー
   - JPHACKS運営事務局
-  - [ホームページ]((https://givery.co.jp)
+  - [ホームページ](https://givery.co.jp)
   - [お問い合わせ先](https://givery.co.jp/contact/)
