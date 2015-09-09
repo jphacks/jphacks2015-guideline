@@ -8,6 +8,7 @@
 ### ルール・審査
 - [開発ルール](documents/rule.md)
 - [審査基準](documents/criteria.md)
+- [審査方法](documents/howtojudge.md)
 - [審査委員](documents/judges.md)
 
 ### 規約
