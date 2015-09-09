@@ -15,7 +15,7 @@ $git commit -m"[TOOLS] install {toolname}"
 ```
 
 ### 技術的独自性
-1.README.md
+1. README.md
   - 記入欄の技術内容を記述
   - ファイル名、commit_idを指定（任意）
 
