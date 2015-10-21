@@ -1,4 +1,4 @@
-# JPHACKS2015参加者ガイドライン
+# JPHACKS2015 参加者ガイドライン
 ## 目次
 ### 概要
 - [はじめに](documents/first.md)
