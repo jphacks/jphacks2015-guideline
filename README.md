@@ -1,29 +1,29 @@
 # JPHACKS2015 参加者ガイドライン
 ## 目次
 ### 概要
-- [JPHACKS2015開催概要](guidlines/abstract.md)
-- [全体の流れ](guidlines/schedule.md)
-- [ハッカソンの部](guidlines/hackathons.md)
-- [ピッチ・ミートアップの部](guidlines/final.md)
+- [JPHACKS2015開催概要](guidelines/abstract.md)
+- [全体の流れ](guidelines/schedule.md)
+- [ハッカソンの部](guidelines/hackathons.md)
+- [ピッチ・ミートアップの部](guidelines/final.md)
 
 ### ルール・審査
-- [ハッカソンのテーマ・部門について](guidlines/theme.md)
-- [事前準備](guidlines/tools.md)
-- [開発ルール](guidlines/rule.md)
-- [審査基準](guidlines/criteria.md)
-- [審査方法](guidlines/how-to-judge.md)
-- [審査委員](guidlines/judges.md)
+- [ハッカソンのテーマ・部門について](guidelines/theme.md)
+- [事前準備](guidelines/tools.md)
+- [開発ルール](guidelines/rule.md)
+- [審査基準](guidelines/criteria.md)
+- [審査方法](guidelines/how-to-judge.md)
+- [審査委員](guidelines/judges.md)
 
 ### 商品について
-- [JPHACKS賞](guidlines/prize.md)
-- [各スポンサー賞](guidlines/sponsorprize.md)
+- [JPHACKS賞](guidelines/prize.md)
+- [各スポンサー賞](guidelines/sponsorprize.md)
 
 ### API等各種提供物について
-- [スポンサー提供物一覧](guidlines/offer.md)
+- [スポンサー提供物一覧](guidelines/offer.md)
 
 ### 規約
-- [参加規約](guidlines/terms.md)
-- [成果物に対する取り決め](guidlines/products.md)
+- [参加規約](guidelines/terms.md)
+- [成果物に対する取り決め](guidelines/products.md)
 
 ## HP
 - [JPHACKSの公式ホームページ](https://jphacks.com)
