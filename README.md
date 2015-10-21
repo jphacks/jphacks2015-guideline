@@ -1,15 +1,25 @@
-# JPHACKS2015
+# JPHACKS2015参加者ガイドライン
 ## 目次
 ### 概要
 - [はじめに](documents/first.md)
 - [JPHACKS2015開催概要](documents/abstract.md)
-- [ハッカソンのテーマ・部門について](documents/theme.md)
+- [全体の流れ](documents/schedule.md)
+- [ハッカソンの部](documents/hackathons.md)
+- [ピッチイベント・ミートアップの部](documents/final.md)
 
 ### ルール・審査
+- [ハッカソンのテーマ・部門について](documents/theme.md)
 - [開発ルール](documents/rule.md)
 - [審査基準](documents/criteria.md)
 - [審査方法](documents/how-to-judge.md)
 - [審査委員](documents/judges.md)
+
+### 商品について
+- [JPHACKS賞](documents/prize.md)
+- [各スポンサー賞](documents/sponsorprize.md)
+
+### API等各種提供物について
+- [スポンサー提供物一覧](documents/offer.md)
 
 ### 規約
 - [参加規約](documents/terms.md)
