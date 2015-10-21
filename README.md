@@ -4,7 +4,7 @@
 - [JPHACKS2015開催概要](documents/abstract.md)
 - [全体の流れ](documents/schedule.md)
 - [ハッカソンの部](documents/hackathons.md)
-- [ピッチイベント・ミートアップの部](documents/final.md)
+- [ピッチ・ミートアップの部](documents/final.md)
 
 ### ルール・審査
 - [ハッカソンのテーマ・部門について](documents/theme.md)
