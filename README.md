@@ -8,6 +8,7 @@
 
 ### ルール・審査
 - [ハッカソンのテーマ・部門について](documents/theme.md)
+- [事前準備](documents/tools.md)
 - [開発ルール](documents/rule.md)
 - [審査基準](documents/criteria.md)
 - [審査方法](documents/how-to-judge.md)
