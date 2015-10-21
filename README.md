@@ -1,7 +1,6 @@
 # JPHACKS2015 参加者ガイドライン
 ## 目次
 ### 概要
-- [はじめに](documents/first.md)
 - [JPHACKS2015開催概要](documents/abstract.md)
 - [全体の流れ](documents/schedule.md)
 - [ハッカソンの部](documents/hackathons.md)
