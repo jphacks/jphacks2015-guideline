@@ -8,7 +8,7 @@
 
 ### ルール・審査
 - [ハッカソンのテーマ・部門について](guidelines/theme.md)
-- [事前準備](guidelines/tools.md)
+- [事前準備物](guidelines/tools.md)
 - [開発ルール](guidelines/rule.md)
 - [審査基準](guidelines/criteria.md)
 - [審査方法](guidelines/how-to-judge.md)
