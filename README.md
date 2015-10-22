@@ -24,7 +24,6 @@
 
 ### 規約
 - [参加規約](guidelines/terms.md)
-- [成果物に対する取り決め](guidelines/products.md)
 
 ## HP
 - [JPHACKSの公式ホームページ](https://jphacks.com)
