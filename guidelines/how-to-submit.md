@@ -8,7 +8,9 @@ GitHub、DEVPOSTの登録が完了、ログインしている状態であるこ�
 
 1. リポジトリの作成
 2. サンプルプロジェクトからREADME.mdの複製
-3. DEVPOSTへの登録
+3. 開発製品の登録・README.mdの完成
+4. DEVPOSTへの登録
+5. フォーム提出
 
 ## 製品開発・提出方法の選択
 JPHACKSではGitHubを活用した開発と作品の提出を必須としております。
@@ -24,12 +26,48 @@ JPHACKSではGitHubを活用した開発と作品の提出を必須としてお�
 プライベートリポジトリの取得方法につきましては、[事前準備物](tools.md)をご確認ください。
 
 ## <a name="section1">1. オープンソースプロジェクトでの開発・提出方法
-###
+### 1-1. プロジェクトリポジトリの作成
+* GitHubにアクセスし、新しいプロジェクトリポジトリを作成してください。
+  * [公式ガイド](https://guides.github.com/activities/hello-world/)が参考になります
+  * LICENSEはMTI LICENSEを選択することを推奨します。（ライセンスについては[コチラ](https://help.github.com/articles/open-source-licensing/)をご参照下さい）
 
+### 1-2. README.mdの複製
+* サンプルリポジトリの[README.md](https://github.com/jphacks/sample/blame/master/README.md)にアクセスし、コピーをしてください。
+* こちらのテンプレートを、作成したリポジトリのディレクトリ直下に、README.mdとして保存をしてください。
+* Initial Commit で既にREADME.mdを作成している場合は、テンプレートを上書きしてください。
 
+### forkによるリポジトリの作成
+jphacksの公式アカウントのサンプルリポジトリ（[sample](https://github.com/jphacks/sample)）からリポジトリをforkすると、これらのステップを省くことが出来ます。
+
+### 1-3. 開発製品の登録・README.mdの完成
+* Gitリポジトリとして製品のバージョン管理を実施してください。
+* GitHub、Gitによる製品のバージョン管理がわからないチームは、ハッカソン前に外部サイトなどで使い方を習得するようお願いいたします。
+  * 運営側でもGitHubの使い方については、Slackのチャンネル上でフォローアップを致します。
+* README.mdの空欄を埋めて、内容を完成させてください。
+
+* 完成形のイメージとして、[サンプル](https://github.com/jphacks/sample/tree/tum-music)をご参照ください。
+
+### 1-4. DEVPOSTへの登録
+* [プロジェクトの登録ページ](http://devpost.com/software/)にアクセスしてください。
+* Githubリポジトリのインポートを選択し、今回作成した製品のリポジトリを指定し、インポートをしてください。
+* 登録の詳細ページに、入力事項を埋めて、登録を完了してください。
+  * デモ動画など、作品のUI/UXがわかるものを登録すると良いでしょう。（任意）
+
+* 完成形のイメージとして、[サンプル](http://devpost.com/software/tum-music)をご参照ください。
+
+### 1-5. フォームによる作品の提出
+* [製品提出フォーム](https://docs.google.com/forms/d/1NmH8tDSldl1b_q5QyhVPEB-rnnedVGIHF-5upFwe7Dc/viewform)にアクセスし、必要事項を記入します。
+* チーム決定時に配布されている、会場ID・チームIDを入力してください。
+* 1-4で登録をしたDEVPOSTのプロジェクトURLを記入してください。
+  * DEVPOST以外のURLは受け付けておりませんので、ご注意ください。
 
 ## <a name="section2">2. プライベートリポジトリでの開発・提出方法
 
+
+
+### 注意事項
+* 一度製品情報を提出された場合、再びの提出はできませんのでご注意下さい。
+* ハッカソン終了時刻までに、不慮の自体を除き提出が遅れた場合は、提出が認められない場合がございます。予めご了承下さい。
 
 --------------
 [[目次へ戻る](../README.md)] [[開発ルールへ](rule.md)]
