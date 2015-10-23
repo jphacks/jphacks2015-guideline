@@ -17,7 +17,7 @@
 
 ### 商品について
 - [JPHACKS賞](guidelines/prize.md)
-- [各スポンサー賞](guidelines/sponsorprize.md)
+- [各スポンサー賞](guidelines/sponsor-prize.md)
 
 ### API等各種提供物について
 - [スポンサー提供物一覧](guidelines/offer.md)
