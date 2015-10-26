@@ -3,8 +3,8 @@
 ### 概要
 - [JPHACKS2015開催概要](guidelines/abstract.md)
 - [全体の流れ](guidelines/schedule.md)
-- [ハッカソンの部](guidelines/hackathons.md)
-- [ピッチ・ミートアップの部](guidelines/final.md)
+- [JPHACKS Hackathon（11/28-29）](guidelines/hackathons.md)
+- [JPHACKS Final（12/12）](guidelines/final.md)
 
 ### ルール・審査
 - [ハッカソンのテーマ・部門について](guidelines/theme.md)
