@@ -31,4 +31,4 @@ JPHACKSでは、皆様がハッカソン当日に開発に集中し、より良�
 詳細は[JPHACKS Final](final.md)をご確認ください。
 
 --------------
-[[目次へ戻る](../README.md)] [[ハッカソンの部へ](hackathons.md)]
+[[目次へ戻る](../README.md)] [[JPHACKS Hackathonへ](hackathons.md)]
