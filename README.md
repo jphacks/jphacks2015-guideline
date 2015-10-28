@@ -20,7 +20,7 @@
 - [各スポンサー賞](guidelines/sponsor-prize.md)
 
 ### API等各種提供物について
-- [スポンサー提供物一覧](guidelines/offer.md)
+- [スポンサー提供物一覧](documents/offerlist.md)
 
 ### 規約
 - [参加規約](guidelines/terms.md)
