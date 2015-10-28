@@ -35,4 +35,4 @@ JPHACKS Final当日は、
   
 
 --------------
-[[目次へ戻る](../README.md)] [[JPHACKS Hackathon（11/28-29）へ](theme.md)]
+[[目次へ戻る](../README.md)] [[ハッカソンのテーマ・部門についてへ](theme.md)]
