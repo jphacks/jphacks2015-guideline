@@ -26,4 +26,4 @@ JPHACKSの目的は、日本が海外に遅れをとっているエンジニア�
 |参加方法|[こちら](http://bit.ly/jphacks-entry)からエントリーください。|
 
 --------------
-[[目次へ戻る](../README.md)] [[JPHACKS FINAL（12/12）の部へ](final.md)]
+[[目次へ戻る](../README.md)] [[JPHACKS FINALへ](final.md)]
