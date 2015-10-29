@@ -52,7 +52,6 @@
 |幹事|東京大学大学院情報理工学系研究科・特任助教|木戸 冬子|
 
 ### お問い合わせ
-- 株式会社ギブリー
-  - JPHACKS運営事務局
-  - [ホームページ](https://givery.co.jp)
-  - [お問い合わせ先](https://givery.co.jp/contact/)
+- JPHACKS運営事務局
+  - 株式会社ギブリー
+  - [お問い合わせ先](https://jphacks.com/contact/)
