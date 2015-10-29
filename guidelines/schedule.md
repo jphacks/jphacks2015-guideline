@@ -40,3 +40,6 @@ JPHACKSでは、皆様がハッカソン当日に開発に集中し、より良�
 
 --------------
 [[目次へ戻る](../README.md)] [[JPHACKS HACKATHONへ](hackathons.md)]
+
+----
+JPHACKS運営事務局
