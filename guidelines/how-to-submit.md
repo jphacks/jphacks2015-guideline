@@ -105,10 +105,10 @@ jphacksの公式アカウントのサンプルリポジトリ（[sample](https:/
 
 ## 提出必須物の確認表
 フォーム提出前に、DEVPOST上のプロジェクト内容に、以下の項目が全て当てはまっているか、かならずご確認ください。
-- GitHubリポジトリのURLが記入されている
+- [ ] GitHubリポジトリのURLが記入されている
  - プライベートリポジトリの場合は、そのリポジトリのCollaboratorにjphacks-officialが加わっている
-- 製品概要が、運営が提供するフォーマット[README.md](https://github.com/jphacks/sample/blame/master/README.md)と同様である
-- DEMO動画が正しく再生することができている
+- [ ] 製品概要が、運営が提供するフォーマット[README.md](https://github.com/jphacks/sample/blame/master/README.md)と同様である
+- [ ] DEMO動画が正しく再生することができている
 
 --------------
 [[目次へ戻る](../README.md)] [[審査基準へ](criteria.md)]
