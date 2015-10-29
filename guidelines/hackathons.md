@@ -20,7 +20,7 @@ JPHACKSの目的は、日本が海外に遅れをとっているエンジニア�
 |会場|北海道：[北海道大学 フロンティア応用化学研究科棟1階 セミナー室1](http://www.eng.hokudai.ac.jp/access/)<br>東北：[東北大学 片平キャンパス 金属材料研究所 国際教育研究棟 2F セミナー室](http://www.tohoku.ac.jp/japanese/)<br>関東：[東京大学本郷キャンパス工学部2号館213教室](http://www.u-tokyo.ac.jp/campusmap/map01_02_j.html)<br>関西：[ミント神戸](http://mint-kobe.jp/access/)<br>九州：[熊本大学総合研究棟2階204教室](http://www.eng.kumamoto-u.ac.jp/faculty/faculty08.html)<br>|
 |定員|300名|
 |参加条件|・全国の大学生・大学院生・専門生・高専生の学生（学年不問（高校生不可））<br>・満18歳以上であること|
-|参加費|無料<br>※ハッカソンへの交通費は自己負担<br>※ハッカソン後の審査でトップ15作品に採択（ノミネート）された場合は、12月12日（土）ピッチイベントへは交通費および宿泊費が支給されます|
+|参加費|無料<br>※ハッカソンへの交通費及び宿泊費は自己負担|
 |主催|JPHACKS組織委員会|
 |運営事務局|[Givery,Inc](https://givery.co.jp/)|
 |参加方法|[こちら](http://bit.ly/jphacks-entry)からエントリーください。|
