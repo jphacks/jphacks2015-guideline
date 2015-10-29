@@ -1,4 +1,4 @@
-## JPHACKS Hackathon（11/28-11/29）
+## JPHACKS HACKATHON（11/28-11/29）
 ***
 世界に通用するテクノロジーありきのプロダクトや研究開発が輩出される場をつくるべく、東京大学GCL、情報理工学系研究科が主導となるJPHACKS組織委員会は、JPHACKS Hackathonを開催します。  
 
@@ -26,4 +26,4 @@ JPHACKSの目的は、日本が海外に遅れをとっているエンジニア�
 |参加方法|[こちら](http://bit.ly/jphacks-entry)からエントリーください。|
 
 --------------
-[[目次へ戻る](../README.md)] [[JPHACKS Final（12/12）の部へ](final.md)]
+[[目次へ戻る](../README.md)] [[JPHACKS FINAL（12/12）の部へ](final.md)]
