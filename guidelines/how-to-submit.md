@@ -113,3 +113,6 @@ jphacksの公式アカウントのサンプルリポジトリ（[sample](https:/
 
 --------------
 [[目次へ戻る](../README.md)] [[審査基準へ](criteria.md)]
+
+----
+JPHACKS運営事務局
