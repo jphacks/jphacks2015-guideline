@@ -15,3 +15,6 @@
 
 --------------
 [[目次へ戻る](../README.md)] [[JPHACKS賞へ](prize.md)]
+
+----
+JPHACKS運営事務局
