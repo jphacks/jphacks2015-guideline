@@ -55,3 +55,8 @@
 - JPHACKS運営事務局
   - 株式会社ギブリー
   - [お問い合わせ先](https://jphacks.com/contact/)
+
+
+<div style="text-align: right;">
+JPHACKS運営事務局
+</div>
