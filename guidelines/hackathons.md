@@ -27,3 +27,6 @@ JPHACKSの目的は、日本が海外に遅れをとっているエンジニア�
 
 --------------
 [[目次へ戻る](../README.md)] [[JPHACKS FINALへ](final.md)]
+
+----
+JPHACKS運営事務局
