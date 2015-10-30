@@ -24,6 +24,7 @@
 
 ### 規約
 - [参加規約](guidelines/terms.md)
+- [アンチハラスメントポリシー](guidelines/anti-harassment.md)
 
 ## HP
 - [JPHACKSの公式ホームページ](https://jphacks.com)
