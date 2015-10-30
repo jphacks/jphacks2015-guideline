@@ -1,4 +1,4 @@
-## Anti Harassment Policy
+# Anti Harassment Policy
 
 JPHACKS運営事務局である株式会社ギブリー(以下「運営局」といいます)は、JPHACKSにご参加される方(以下「参加者」といいます)に対してアンチハラスメントポリシーを策定いたします。参加者はこれを遵守するものとします。
 
