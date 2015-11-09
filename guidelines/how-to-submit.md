@@ -18,7 +18,7 @@ JPHACKSではGitHubを活用した開発と作品の提出を必須としてお�
 
 1. [オープンソースプロジェクトとして開発する](#section1)  
 オープンソースプロジェクトとして開発をする場合、ソースコードはOSSとして一般に公開されます。
-またJPHACKSではMTIライセンスの適用を推奨しております。
+またJPHACKSではMITライセンスの適用を推奨しております。
 
 2. [プライベートリポジトリを活用して開発する](#section2)  
 プロジェクトのソースコードを非公開にしたい場合は、GitHubのプライベートリポジトリを活用します。
@@ -28,7 +28,7 @@ JPHACKSではGitHubを活用した開発と作品の提出を必須としてお�
 ### 1-1. プロジェクトリポジトリの作成
 * GitHubにアクセスし、新しいプロジェクトリポジトリを作成してください。
   * [公式ガイド](https://guides.github.com/activities/hello-world/)が参考になります
-  * LICENSEはMTI LICENSEを選択することを推奨します。（ライセンスについては[コチラ](https://help.github.com/articles/open-source-licensing/)をご参照下さい）
+  * LICENSEはMIT LICENSEを選択することを推奨します。（ライセンスについては[コチラ](https://help.github.com/articles/open-source-licensing/)をご参照下さい）
 
 ### 1-2. README.mdの複製
 * サンプルリポジトリの[README.md](https://github.com/jphacks/sample/blame/master/README.md)にアクセスし、コピーをしてください。
