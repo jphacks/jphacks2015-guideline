@@ -56,7 +56,10 @@
 ### お問い合わせ
 - JPHACKS運営事務局
   - 株式会社ギブリー
-  - [お問い合わせ先](https://jphacks.com/contact/)
+
+### お問い合わせ方法
+- GitHub issue: [issue](https://github.com/jphacks/jphacks-guideline/issues)にご記入ください
+- メール:[support@jphacks.com](mailto:support@jphacks.com)
 
 
 ----
