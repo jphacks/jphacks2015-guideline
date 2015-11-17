@@ -6,17 +6,18 @@ GitHub、DEVPOSTの登録が完了、ログインしている状態であるこ�
 
 ## 開発から提出の流れ
 
-1. [JPHACKSオフィシャルアカウントからのメンバー招待の確認と承認](#section1)
+1. [GitHub の JPHACKS organization からメンバー招待の確認と承認](#section1)
 2. [チームリポジトリの確認](#section2)
 3. [リポジトリの設定(公開か非公開かの設定)](#section3)
 4. [開発製品の登録・README.mdの完成](#section4)
 5. [DEVPOSTへの登録](#section5)
 6. [フォームでの作品提出](#section6)
 
-### <a name="section1">1.JPHACKSオフィシャルアカウントからのメンバー招待の確認と承認
+### <a name="section1">1. GitHub の JPHACKS organization からメンバー招待の確認と承認
 
 #### 1-1. 招待メールの確認
-申請したメールアドレスに、以下の招待メールが届いていることを確認し、本文中段のリンクをクリックし、招待の確認をします。
+申請したメールアドレスに、以下の招待メールが届いていることを確認し、本文中段のリンクをクリックし、招待の確認をします。  
+文中の `akihiro nitta` や `maximum80` は GitHub で登録されている氏名・ユーザ名になります。
 ```
 Hi akihiro nitta,
 
@@ -39,7 +40,7 @@ The GitHub Team
 
 #### 1-2. チーム招待の承認
 ![イメージ1](../assets/images/submit1.png)
-正体のURLにアクセスすると、上記のようなJPHACKS運営事務局からの招待を確認できます。  
+招待のURLにアクセスすると、上記のようなJPHACKS運営事務局からの招待を確認できます。  
 "JOIN JPHACKS"のボタンをクリックして、チームの招待を承認してください。
 
 ### <a name="section2">2. チームリポジトリの確認
@@ -61,7 +62,7 @@ The GitHub Team
  * 東京：TK
  * 神戸：KB
  * 熊本：KM
-* チームID：01~30まで
+* チームID：01~35まで
 
 * 例)北海道会場の01番のチーム
 ```
@@ -79,9 +80,6 @@ HK_01
 ![イメージ3](../assets/images/submit3.png)
 
 表示されたリポジトリが今回皆様にご利用いただくリポジトリとなります。
-以下のような画面が表示されれば問題ございません。
-
-![イメージ4](../assets/images/submit4.png)
 
 リポジトリ内に
 * README.md
@@ -90,6 +88,11 @@ HK_01
   * ライセンスファイル
 
 が既に保存されている事を確認してください。
+
+以下のような画面が表示されれば問題ございません。
+
+![イメージ4](../assets/images/submit4.png)
+
 
 ### <a name="section2">3. リポジトリの設定(公開か非公開かの設定)
 
@@ -116,7 +119,7 @@ JPHACKSではGitHubを活用した開発と作品の提出を必須としてお�
 設定が完了すると以下のように、リポジトリ名のとなりに、**"Private"**が表示されていれば、設定は完了です。
 ![イメージ7](../assets/images/submit7.png)
 
-## 4. <a name="section4">開発製品の登録・README.mdの完成
+## <a name="section4">4. 開発製品の登録・README.mdの完成
 
 * Gitリポジトリとして製品のバージョン管理を実施してください。
 * リポジトリの設定（リポジトリページ > settings > Collaborators & teams > Collabrater）にて、開発メンバーを追加して開発することを推奨します。
@@ -126,7 +129,7 @@ JPHACKSではGitHubを活用した開発と作品の提出を必須としてお�
 
 * 完成形のイメージとして、[サンプル](https://github.com/jphacks/sample/tree/tum-music)をご参照ください。
 
-## 5. <a name="section5">DEVPOSTへの登録
+## <a name="section5">5. DEVPOSTへの登録
 ### 5-1. オープンソースプロジェクトの場合
 * [プロジェクトの登録ページ](http://devpost.com/software/)にアクセスしてください。
 * GitHubリポジトリのインポートを選択し、今回作成した製品のリポジトリを指定し、インポートをしてください。
@@ -147,7 +150,7 @@ JPHACKSではGitHubを活用した開発と作品の提出を必須としてお�
 
 * 完成形のイメージとして、[サンプル](http://devpost.com/software/tum-music)をご参照ください。
 
-## 6. <a name="section6">フォームによる作品の提出
+## <a name="section6">6. フォームによる作品の提出
 * [製品提出フォーム](https://docs.google.com/forms/d/1NmH8tDSldl1b_q5QyhVPEB-rnnedVGIHF-5upFwe7Dc/viewform)にアクセスし、必要事項を記入します。
 * チーム決定時に配布されている、会場ID・チームIDを入力してください。
 * [5.](section5)で登録をしたDEVPOSTのプロジェクトURLを記入してください。
