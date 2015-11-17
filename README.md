@@ -15,7 +15,7 @@
 - [審査方法](guidelines/how-to-judge.md)
 - [審査委員](guidelines/judges.md)
 
-### 商品について
+### 賞品について
 - [JPHACKS賞](guidelines/prize.md)
 - [各スポンサー賞](guidelines/sponsor-prize.md)
 
