@@ -6,7 +6,7 @@ JPHACKSの企業が提供するAPI/デバイス、クラウドサービス一覧
 |Intel | [Intel Edison board for Arduino](http://edison-lab.jp/edison-arduino/) |http://www.intel.com/content/www/us/en/do-it-yourself/get-help.html<br>https://software.intel.com/en-us/forums/realsense<br>https://software.intel.com/en-us/blogs/2014/09/08/announcing-intel-iot-developer-kit|
 |Intel |[Intel Edison Breakout board](http://edison-lab.jp/edison-breakout/)|http://www.intel.com/content/www/us/en/do-it-yourself/get-help.html<br>https://software.intel.com/en-us/forums/realsense<br>https://software.intel.com/en-us/blogs/2014/09/08/announcing-intel-iot-developer-kit|
 |Intel |[RealSense developer Kit(F200)](http://click.intel.com/intel-realsense-developer-kit.html)|http://www.intel.com/content/www/us/en/do-it-yourself/get-help.html<br>https://software.intel.com/en-us/forums/realsense<br>https://software.intel.com/en-us/blogs/2014/09/08/announcing-intel-iot-developer-kit|
-| Sony |[MESH™](https://meshprj.com/sdk/) | [製品紹介] http://meshprj.com/jp/<br>[SDK紹介] https://meshprj.com/sdk/ |
+| Sony |[MESH™] | [製品紹介] http://meshprj.com/jp/<br>[SDK紹介] https://meshprj.com/sdk/ |
 | Sony|■SmartEyeglass Developer Edition SED-E1 - 透過式メガネ型端末|[製品紹介] http://developer.sonymobile.com/ja/smarteyeglass/<br>[開発情報] http://developer.sonymobile.com/ja/smarteyeglass/developer-tools/|
 | Sony |BRAVIA with Android TV™|[製品紹介] http://www.sony.net/Products/tv/androidtv/ja/<br>[開発情報] https://developer.sony.com/develop/tvs/android-tv/<br>[開発情報] http://developer.android.com/training/tv/start/index.html<br>|
 | サイボウズ | Kintone |提供するAPI<br>https://cybozudev.zendesk.com/hc/ja を紹介する<br>▼kintoneについて<br>https://kintone.cybozu.com/jp/<br>▼ハッカソンでの使い方<br>https://cybozudev.zendesk.com/hc/ja/articles/205365464|
