@@ -4,7 +4,7 @@
 | NTTコミュニケーションズ賞 | 粗品 |  WebRTCを活用していること  |
 | goo API賞（NTTレゾナント）    | NTTレゾナントが提供するスマートフォン 「gooのスマホ」を３台贈呈 提供方法は受賞チームに手渡しを予定 製品紹介ページ http://product.goo.ne.jp/  |    NTTレゾナントが提供する３つのAPIのいずれかを用いたサービスやプロダクトを作ったチームの中から、最も優れたチームにgoo API賞を贈呈します。   |
 | AJS賞     | Apple Watch 1台＋iTunes card 20,000円分＋ランチ| 世の中のIoTをより進化させる画期的なプロダクト  |
-| サイボウズ賞       |随時更新 | サイボウズのAPIを用いたサービスまたはチームワークが高まるサービス  |
+| サイボウズ賞       |①サイボウズのエンジニアがオススメするキーボード4選<br>②サイボウズオフィス見学ツアー＆エンジニアとのお食事会<br>③kintone5ユーザー1年間ライセンス<br>※①～③全てがサイボウズ賞となります。<br>※①は下記4つのキーボードからお好みの物を一人一つ<br>選択いただきます。賞品は後日ご自宅に発送いたします。<br>・東プレ NG01B0 REALFORCE91UBK<br>http://www.amazon.co.jp/dp/B000EQHU6M/<br>・PFU Happy Hacking Keyboard Lite2<br>http://www.amazon.co.jp/dp/B000EXXEWE/<br>・FILCO Majestouch2<br>http://www.amazon.co.jp/dp/B0053U3YX2/<br>・ThinkPad トラックポイント・キーボード<br>http://www.amazon.co.jp/dp/B00DLK4GR4/<br> | サイボウズのAPIを用いたサービスまたはチームワークが高まるサービス  |
 | DMM.com Labo / .make AKIBA賞 | .make AKIBA Continued support（DMMによる継続開発支援プログラム）<br>期間：3ヶ月<br>＊対象チーム不在の場合有り<br>＊条件により通常のscholarshipへ適応有り<br>＊未成年の場合は親御様の承諾が必要となります<br>＊資材は実費（詳細は事前に打ち合わせ）|今回のhackathonでIoT関連に取り組んでいるチーム<br>もしくは<br>優秀チームで今後IoT関連の取り組みを行うチーム |
 | SCSK賞    |  随時更新 |  随時更新    |
 | アクセンチュア賞  | 随時更新 | 随時更新    |
