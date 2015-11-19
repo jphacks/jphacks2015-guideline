@@ -1,7 +1,12 @@
 ## 審査委員会
 ### 一次審査員会
 |役職|所属|名前|
-|---|---|---|
+|CivicTech部門審査員|Mashup Awards事務局長|伴野智樹|
+|CivicTech部門審査員|随時更新|随時更新|
+|WorldChallenge部門審査員|株式会社Viling Venture Partners CEO|栗島 祐介|
+|WorldChallenge部門審査員|随時更新|随時更新|
+|Academic部門審査員|Kabuku,Inc. President|稲田 雅彦|
+|Academic部門審査員|随時更新|随時更新|
 |委員|※11月中に更新予定||
 
 ### 最終審査委員会
