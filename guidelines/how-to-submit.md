@@ -133,7 +133,7 @@ JPHACKSではGitHubを活用した開発とプロダクトの提出を必須と�
 ### 5-1. オープンソースプロジェクトの場合
 * 今回作成したプロダクトを代表者一名がforkしてください。
 
-![イメージ7](../assets/images/submit7.png)
+![イメージ8](../assets/images/submit8.png)
 * リポジトリのページの右上のforkボタンをクリックします
 
 *次にDEVPOST上の [プロジェクトの登録ページ](http://devpost.com/software/)にアクセスしてください。
