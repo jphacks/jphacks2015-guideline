@@ -3,9 +3,7 @@
 |役職|所属|名前|
 |---|---|---|
 |CivicTech部門審査員|Mashup Awards事務局長|伴野智樹|
-|CivicTech部門審査員|SCSK株式会社|---|
 |WorldChallenge部門審査員|株式会社Viling Venture Partners CEO|栗島 祐介|
-|WorldChallenge部門審査員|サイボウズ株式会社|---|
 |Academic部門審査員|Kabuku,Inc. President|稲田 雅彦|
 |Academic部門審査員|エヌ・ティ・ティ・コミュニケーションズ株式会社|---|
 
