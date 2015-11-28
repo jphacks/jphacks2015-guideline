@@ -47,11 +47,11 @@
 に分解してみましょう。「今回はやらないこと」が増えれば増えるほど、実はサービスとしては面白いものになる可能性があります。
 
 ## スポンサー賞を狙う人へ
-https://github.com/jphacks/jphacks-guideline/blob/master/guidelines/sponsor-prize.md
+https://github.com/jphacks/jphacks-guideline/blob/master/guidelines/sponsor-prize.md  
 もう一度こちらを熟読し、「どのような作品が選ばれるのか」の選定基準をみて、改めて作品のブラッシュアップをしてみましょう
 
 ## 部門賞を狙う人へ
-https://github.com/jphacks/jphacks-guideline/blob/master/guidelines/criteria.md
+https://github.com/jphacks/jphacks-guideline/blob/master/guidelines/criteria.md  
 こちらをよく読んで、作品の提出フォーマットを埋めていきましょう。
 特に技術の部分は非常に重要です。
 - 自分達が独自に実装したこと
