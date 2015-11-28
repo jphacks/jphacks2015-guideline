@@ -24,7 +24,7 @@
 |TODAI TO TEXAS賞（東京大学産学連携<br>本部）|SXSW2016 Trade Showへの出展権利（出展費および参加費、渡航費、宿泊費を2名まで補助）<br>*[SXSW2016について](http://www.sxsw.com/) <br>*[TODAI TO TEXASについて](http://todaitotexas.com/)|・東京大学在学生がチームに最低1名所属していること<br>・世界に展開できる可能性のあるプロダクトであること<br>・2016年2月10日までに本リリースできること<br>・2016年3月10日～18日のスケジュールを確保できること|
 
 --------------
-[[目次へ戻る](../README.md)] [[スポンサー提供物一覧へ](offerlist.md)]
+[[目次へ戻る](../README.md)] [[スポンサー提供物一覧へ](../documents/offerlist.md)]
 
 ----
 JPHACKS運営事務局
