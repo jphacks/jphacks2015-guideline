@@ -2,10 +2,12 @@
 ### 中間オンライン審査委員
 |役職|所属|名前|
 |---|---|---|
-|CivicTech部門審査員|Mashup Awards事務局長|伴野智樹|
-|WorldChallenge部門審査員|株式会社Viling Venture Partners CEO|栗島 祐介|
 |Academic部門審査員|Kabuku,Inc. President|稲田 雅彦|
-|Academic部門審査員|エヌ・ティ・ティ・コミュニケーションズ株式会社|---|
+|Academic部門審査員|エヌ・ティ・ティ・コミュニケーションズ株式会社|植松 幸生|
+|WorldChallenge部門審査員|サイボウズ株式会社 システム・コンサルティング本部 cybozu.comソリューション マネージャー|後迫 孝|
+|WorldChallenge部門審査員|株式会社Viling Venture Partners CEO|栗島 祐介|
+|CivicTech部門審査員|Mashup Awards事務局長|伴野 智樹|
+|CivicTech部門審査員|SCSK株式会社 Senior Professional IT Architect R&D Center|土井 巧|
 
 ### 最終審査委員
 |役職|所属|名前|
